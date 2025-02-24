@@ -10,13 +10,6 @@
 📌 В поиске **интересных проектов** и **новых возможностей** для профессионального развития.  
 👨‍💻 Открыт для предложений о работе — буду рад новым вызовам и команде единомышленников! 
 
-
-<!--
-💻 **C++ разработчик** с опытом многопоточного программирования, работы с **STL**, **CMake** и **Qt**.  
-🔍 Интересуюсь алгоритмами, оптимизацией кода и кроссплатформенной разработкой.  
-🎮 Увлекаюсь созданием игр и 3D-моделированием в **Blender** и **Unreal Engine**.  
-📌 Обучаюсь новым технологиям и всегда готов к интересным проектам.
--->
 ---
 
 ### 🛠️ Технологии и навыки:
@@ -50,23 +43,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-
-<!--
-#### **Языки программирования**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### **Разработка и инструменты**
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### **Графика и моделирование**
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
--->
 ---
 
 ### 📌 Мои проекты
@@ -114,17 +90,4 @@
 
 Если у вас есть **интересный проект** или **вакансия**, **напишите мне**! Буду рад обсудить сотрудничество.  
 
-<!--
-**timon9393/timon9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
