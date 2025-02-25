@@ -47,6 +47,8 @@
 
 ### 📌 Мои проекты
 #### 🔹 **C++** (учебные проекты)
+- 🏆 **Дипломный проект** Search engine (C++, STL, CMake, PostgreSQL, Boost) - в разработке
+- 🔫 Top-Down шутер (C++, Unreal Engine 5) - в разработке
 - 🏎 [Гоночный симулятор (C++, STL, CMake)](https://github.com/timon9393/HW_Netology-Cpp/tree/main/Coursework%203.%20Racing%20simulator_CMake/RaceSim)  
 - 📂 [Парсер INI-файлов (C++)](https://github.com/timon9393/HW_Chapter-5_Advanced-programming-in-C-/tree/main/Coursework%205.%20INI-file%20parser)  
 - 🔬 [Игра "Жизнь" (C++)](https://replit.com/@Timon9393/Coursework-1-Game-Life#main.cpp)  
