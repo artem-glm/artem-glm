@@ -46,13 +46,14 @@
 ---
 
 ### 📌 Мои проекты
+#### 🔹 **C++**
+- 🔍 [Search engine (C++, STL, CMake, PostgreSQL, Boost)](https://github.com/artem-glm/SearchEngine)
+- 🖼️ [DrawBMP - утилита для чтения BMP-изображений (С++)](https://github.com/artem-glm/DrawBMP)
 #### 🔹 **C++** (учебные проекты)
-- 🏆 **Дипломный проект** [Search engine (C++, STL, CMake, PostgreSQL, Boost)](https://github.com/timon9393/Diploma_SearchEngine)
 - 🔫 Top-Down шутер (C++, Unreal Engine 5) - в разработке
-- 🏎 [Гоночный симулятор (C++, STL, CMake)](https://github.com/timon9393/HW_Netology-Cpp/tree/main/Coursework%203.%20Racing%20simulator_CMake/RaceSim)  
-- 📂 [Парсер INI-файлов (C++)](https://github.com/timon9393/HW_Chapter-5_Advanced-programming-in-C-/tree/main/Coursework%205.%20INI-file%20parser)  
+- 🏎 [Гоночный симулятор (C++, STL, CMake)](https://github.com/artem-glm/HW_Netology-Cpp/tree/main/Coursework%203.%20Racing%20simulator_CMake/RaceSim)  
+- 📂 [Парсер INI-файлов (C++)](https://github.com/artem-glm/HW_Chapter-5_Advanced-programming-in-C-/tree/main/Coursework%205.%20INI-file%20parser)  
 - 🔬 [Игра "Жизнь" (C++)](https://replit.com/@Timon9393/Coursework-1-Game-Life#main.cpp)
-- 🖼️ [DrawBMP - утилита для чтения BMP-изображений (С++)](https://github.com/timon9393/DrawBMP)  
 
 #### 🎨 **3D-графика и анимация**
 - 💡 [Анимация лампы Pixar, симуляция огня и воды (Blender)](https://www.youtube.com/watch?v=DX7rHYNLLlM&t=4s)  
@@ -71,15 +72,15 @@
 - ⚙ **Многопоточное и асинхронное программирование**  
 - 📊 **Работа с базами данных и SQL**  
 
-📜 **Диплом разработчика на C++:** [Посмотреть здесь](https://github.com/timon9393/Certificates/blob/main/Diploma/Диплом%20Разработчик%20на%20C%2B%2B.pdf)  
-📜 **Полный список сертификатов:** [Посмотреть здесь](https://github.com/timon9393/Certificates/tree/main/Certificates)  
+📜 **Диплом разработчика на C++:** [Посмотреть здесь](https://github.com/artem-glm/Certificates/blob/main/Diploma/Диплом%20Разработчик%20на%20C%2B%2B.pdf)  
+📜 **Полный список сертификатов:** [Посмотреть здесь](https://github.com/artem-glm/Certificates/tree/main/Certificates)  
 
 ---
 
 ### 📫 Связаться со мной: 
 💬 [![Telegram](https://img.shields.io/badge/-Telegram-111?style=for-the-badge&logo=Telegram&color=linen)](https://t.me/timon_9393) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-111?style=for-the-badge&logo=WhatsApp&color=linen)](https://wa.me/79851206213)  
 
-📧 **Email:** [timon9393@mail.ru](mailto:timon9393@mail.ru)
+📧 **Email:** [artem_glm@mail.ru](mailto:artem_glm@mail.ru)
 
 📞 **Телефон:** [+7 985 120-62-13](tel:+79851206213)
 
